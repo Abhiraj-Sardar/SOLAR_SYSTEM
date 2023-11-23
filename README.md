@@ -6,3 +6,5 @@ SOLAR SYSTEM is one of my mini Project to brush up my skill on HTML and CSS. It 
 
 # OUTPUT
 ![](https://github.com/Abhiraj-Sardar/SOLAR_SYSTEM/blob/main/img/output.gif)
+
+
